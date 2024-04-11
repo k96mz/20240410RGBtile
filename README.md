@@ -10,7 +10,7 @@ You can visit [Observable](https://observablehq.com/d/652ef8ca26776146) to get
 
 - NASADEM
 
-NASADEM is based on SRTM and complemented by ASTER G-DEM and ALOS 30 meter DEM. It has 1 arc second spatial resolutions (about 30 meters)
+NASADEM is based on SRTM and complemented by ASTER G-DEM and ALOS 30 meter DEM. It has 1 arc second spatial resolutions (about 30 meters).
 
 - Global Map
 
