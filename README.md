@@ -4,7 +4,7 @@ This dataset is RGB elevation tiles of the world from NASADEM and Global Map dat
 
 ### See it in action
 
-You can [Observable](https://observablehq.com/d/652ef8ca26776146) to get a quick overview of the dataset.
+You can visit [Observable](https://observablehq.com/d/652ef8ca26776146) to get a quick overview of the dataset.
 
 ### Original datasets
 
