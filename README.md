@@ -22,17 +22,17 @@ https://globalmaps.github.io/
 
 ## **Data**
 
+Format: PMTiles
+
 Zoom level: 6 to 12
 
 Spatial Extent:	Global (60°N to 56°S, 180°W to 180°E)
 
-Format: PMTiles
-
 Size: 182.5 GB
 
-URL: https://data.source.coop/smartmaps/gel/gel.pmtiles
-
 Convert Date: 2022 October
+
+URL: https://data.source.coop/smartmaps/gel/gel.pmtiles
 
 ## Dataset License
 
