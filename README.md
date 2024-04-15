@@ -1,12 +1,13 @@
-## **Overview**
+## Overview
 
 This dataset is RGB elevation tiles of the world converted from open data namely NASADEM (zoom level: 6-12) and Global Map data (zoom level: 2-5). Although we can find RGB elevation tiles dataset easily, sometimes it is difficult to use it because of the copyright. We made these RGB elevation tiles as open data to reduce constraints in the importation of geographical data and make the imported data flexible and effectively usable anywhere. This work is done under the UN Smart Maps Group of UN Open GIS Initiative.
 
-## **See it in action**
+## Demo: See it in action
 
-You can visit [Observable](https://observablehq.com/d/652ef8ca26776146) to get a quick overview of the dataset.
+- [A demo on Observable](https://observablehq.com/d/652ef8ca26776146) for a quick overview of the dataset.
+- [A fullscreen website](https://optgeo.github.io/glob/) with hash URL enabled.
 
-## **Original datasets**
+## Original datasets
 
 - NASADEM
 
@@ -20,7 +21,7 @@ Global Map is fundamental digital geospatial information covering the whole land
 
 https://globalmaps.github.io/
 
-## **Data**
+## Data
 
 Format: PMTiles
 
@@ -50,10 +51,10 @@ https://creativecommons.org/public-domain/cc0/
 
 *https://qiita.com/T-ubu/items/ced8423e0ebeda8c9244*
 
-- Github page(UN Smart Maps Group)
+- UN Smart Maps Group website (on GitHub Pages)
 
 https://github.com/UNopenGIS/7
 
-- UN Open GIS Initiative
+- UN Open GIS Initiative website
 
 http://unopengis.org/unopengis/main/main.php
