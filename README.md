@@ -27,7 +27,7 @@ Format: PMTiles
 Zoom level: 6 to 12
 
 Spatial Extent:
-- ZL 2-5 Global (ウェブメルカトルの範囲を記入してください)
+- ZL 2-5 Global (around 85°N to 85°S, 180°W to 180°E)
 - ZL 6-12 Global (60°N to 56°S, 180°W to 180°E)
 
 Size: 182.5 GB (The number of file: 1)
@@ -47,6 +47,7 @@ https://creativecommons.org/public-domain/cc0/
 - Technical Detail
 
 *https://qiita.com/T-ubu/items/c7bb5697b51f245ef163*
+
 *https://qiita.com/T-ubu/items/ced8423e0ebeda8c9244*
 
 - Github page(UN Smart Maps Group)
